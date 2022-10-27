@@ -1,3 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.active{
+    color: blueviolet !important;
+}
+
+.navBtn{
+    background-color: blueviolet !important;
+    font-size: 11px;
+}
+.navBtn:hover{
+    color: blueviolet !important;
+    background-color: lightgray !important;
+}
+.gts a:hover{
+    color: blueviolet !important;
+}
+
+.nlink a{
+    font-size: 13px;
+}
+.nlink a:hover{
+    color: white !important;
 }
