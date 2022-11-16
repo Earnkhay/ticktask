@@ -1,0 +1,10 @@
+body, html{
+    font-family: 'Poppins', sans-serif;
+    background-color: #0E0E0E;
+    color: white;
+    height: 100%;
+}
+
+.signup{
+    background-color: #333;
+}
