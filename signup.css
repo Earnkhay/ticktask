@@ -3,8 +3,35 @@ body, html{
     background-color: #0E0E0E;
     color: white;
     height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 .signup{
     background-color: #333;
+}
+
+.reg{
+    background-color: #C366FC;
+    height: 60px;
+}
+
+.reg:hover{
+    background-color: #333;
+    color: #C366FC;
+}
+
+.form-control-lg{
+    height: 60px;
+}
+
+p{
+    color: #333;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+b{
+    color: #C366FC;
 }
