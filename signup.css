@@ -37,3 +37,24 @@ p{
 b{
     color: #C366FC;
 }
+
+@media screen and (max-width: 827px) {
+    .signup{
+        display: none;
+    }
+    
+    .myForm{
+        justify-content: center;
+        width: 100%;
+    }
+}
+
+/* @media screen and (min-width: 1338px) {
+    .d-flex{
+        font-size: 12px;
+    }
+
+    p, b{
+        font-size: 14px;
+    }
+} */
