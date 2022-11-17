@@ -38,13 +38,13 @@ h1{
 }
 
 .get-s:hover{
-    background-color: black  !important;
+    background-color: transparent  !important;
     color: #C366FC !important;
 }
 
  .link-btn .invt-f{
      border-color: #C366FC !important;
-     background-color: black !important;
+     background-color: transparent !important;
      color: #C366FC !important;
     }
   
