@@ -49,12 +49,65 @@ b{
     }
 }
 
-/* @media screen and (min-width: 1338px) {
-    .d-flex{
-        font-size: 12px;
+@media (min-width: 998px) and (max-width: 1340px) {
+    .google{
+        padding: 0 5px !important; 
     }
 
-    p, b{
-        font-size: 14px;
+    .github{
+        padding: 0 5px !important;
     }
-} */
+}
+
+@media (min-width: 829px) and (max-width: 997px) {
+    .google{
+        padding: 0 !important;
+        font-size: 12px; 
+    }
+
+    .github{
+        padding: 0 !important;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    .google{
+        padding: 0 5px !important;
+         
+    }
+
+    .github{
+        padding: 0 5px !important;
+        
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .google{
+        padding: 0 5px !important;
+        font-size: 12px;
+         
+    }
+
+    .github{
+        padding: 0 5px !important;
+        font-size: 12px;
+    }
+}
+
+
+@media screen and (max-width: 421px) {
+    .google{
+        padding: 0 5px !important;
+        font-size: 12px;
+        
+        
+    }
+
+    .github{
+        padding: 0 5px !important;
+        font-size: 12px;
+         
+    }
+}
