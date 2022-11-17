@@ -26,3 +26,62 @@ body{
 .nlink a:hover{
     color: white !important;
 }
+
+.link-btn .get-s{
+    background-color: #C366FC !important;
+    border-color: #C366FC !important;
+}
+h1{
+    font-size: 56px !important;
+    color: #C366FC !important;
+}
+
+.get-s:hover{
+    background-color: black  !important;
+    color: #C366FC !important;
+}
+
+ .link-btn .invt-f{
+     border-color: #C366FC !important;
+     background-color: black !important;
+     color: #C366FC !important;
+    }
+  
+.invt-f:hover{
+    background-color:#C366FC!important;
+    color: white !important;
+}
+
+h2{
+    color: #C366FC ;
+}
+
+ul{
+    color: #C366FC;
+}
+
+.ttu{
+    background-color:#333333 !important;
+}
+h6{
+    color: #C366FC;
+}
+
+.app-Btn{
+    border-color: white;
+    background-color: white;
+    font-size: 10px !important;
+}
+.app-Btn:hover{
+    background-color: black !important;
+    border-color: #C366FC;
+}
+.play-Btn{
+    border-color: white;
+    background-color: rebeccapurple!important;
+    font-size: 10px !important;
+}
+.play-Btn:hover{
+    background-color:transparent !important;
+    border-color: #C366FC;
+}
