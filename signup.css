@@ -38,6 +38,10 @@ b{
     color: #C366FC;
 }
 
+::placeholder{
+    font-size: 16px;
+}
+
 @media screen and (max-width: 827px) {
     .signup{
         display: none;
@@ -56,18 +60,20 @@ b{
 
     .github{
         padding: 0 5px !important;
+        
     }
 }
 
 @media (min-width: 829px) and (max-width: 997px) {
     .google{
-        padding: 0 !important;
-        font-size: 12px; 
+        padding: 0 5px !important;
+        font-size: 14px; 
     }
 
     .github{
-        padding: 0 !important;
-        font-size: 12px;
+        padding: 0 5px !important;
+        font-size: 14px;
+        
     }
 }
 
@@ -97,17 +103,16 @@ b{
 }
 
 
+
 @media screen and (max-width: 421px) {
     .google{
         padding: 0 5px !important;
-        font-size: 12px;
-        
-        
+        font-size: 12px;     
     }
 
     .github{
         padding: 0 5px !important;
         font-size: 12px;
-         
     }
+
 }
