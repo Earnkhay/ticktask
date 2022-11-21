@@ -1,7 +1,8 @@
-body{
+body, html{
     font-family: 'Poppins', sans-serif;
     background-color: #0E0E0E;
     color: white;
+    height: 100%;
 }
 
 .active{
@@ -84,6 +85,7 @@ h6{
 .play-Btn:hover{
     background-color:transparent !important;
     border-color: #C366FC;
+<<<<<<< HEAD
 } */
 
  
@@ -94,3 +96,7 @@ h6{
 } 
 
  
+=======
+}
+
+>>>>>>> a03a67d8a8551c37f8ea6557244e31f2f20e2c72
