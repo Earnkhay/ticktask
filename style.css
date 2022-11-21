@@ -67,7 +67,7 @@ h6{
     color: #C366FC;
 }
 
-.app-Btn{
+/* .app-Btn{
     border-color: white;
     background-color: white;
     font-size: 10px !important;
@@ -84,4 +84,11 @@ h6{
 .play-Btn:hover{
     background-color:transparent !important;
     border-color: #C366FC;
-}
+} */
+
+ 
+ 
+.email-Btn{
+    margin-left: -10px;
+
+} 
