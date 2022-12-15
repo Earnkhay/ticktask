@@ -67,13 +67,14 @@ b{
 @media (min-width: 829px) and (max-width: 997px) {
     .google{
         padding: 0 5px !important;
-        font-size: 14px; 
+        font-size: 14px;
+        margin-bottom: 10px !important; 
+        margin-left: 15px !important;  
     }
 
     .github{
         padding: 0 5px !important;
         font-size: 14px;
-        
     }
 }
 
@@ -93,7 +94,8 @@ b{
     .google{
         padding: 0 5px !important;
         font-size: 12px;
-         
+        margin-bottom: 10px !important; 
+        margin-left: 15px !important;  
     }
 
     .github{
@@ -101,18 +103,45 @@ b{
         font-size: 12px;
     }
 }
-
-
 
 @media screen and (max-width: 421px) {
     .google{
         padding: 0 5px !important;
-        font-size: 12px;     
+        font-size: 12px;
+        margin-bottom: 10px !important; 
+        margin-left: 15px !important;    
     }
 
     .github{
         padding: 0 5px !important;
+        font-size: 12px;    
+    }
+    
+}
+
+@media (min-width: 280px) and (max-width: 422px) {
+    .google{
+        padding: 0 5px !important;
+        font-size: 14px;
+        margin-bottom: 10px !important; 
+        margin-left: 15px !important;  
+    }
+
+    .github{
+        padding: 0 5px !important;
+        font-size: 14px;
+    }
+
+    ::placeholder{
         font-size: 12px;
     }
 
+    .form-control-lg{
+        width: 75% !important;
+    }
+
+    .reg{
+        width: 75% !important;
+    }
 }
+

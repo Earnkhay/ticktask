@@ -1,7 +1,10 @@
 
 /* dashboard css */
-body{
-    background: #eee;
+body, html{
+    font-family: 'Poppins', sans-serif;
+    background-color: #0E0E0E;
+    color: white;
+    height: 100%;
 }
 #side_nav{
     background: #212529;
