@@ -1,4 +1,3 @@
-
 /* dashboard css */
 body, html{
     font-family: 'Poppins', sans-serif;
@@ -18,10 +17,6 @@ body, html{
     width: 100%;
 }
 
-/* .sidebar .header-box i{
-    font-size: 20px;
-} */
-
 hr.h-colour{
 background: #eee;
 }
@@ -38,21 +33,8 @@ background: #eee;
 .sidebar li a{
     color: #eee;
 }
-/* #side_nav{
-    display: block;
-} */
 
 @media screen and (max-width: 767px){
-    /* #side_nav{
-        margin-left: -250px;
-        position: fixed;
-        min-height: 100vh;
-        z-index: 1;
-    }
-    #side_nav.active{
-        margin-left: 0;
-    } */
-
     #side_nav{
         display: none;
     }
