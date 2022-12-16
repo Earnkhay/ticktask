@@ -92,6 +92,84 @@ h6{
     margin-left: -10px;
 }
 
-
-
- 
+@media (min-width:768px) and (max-width :980px){
+    .todo{
+        font-size: 30px !important;
+    }
+    .todo-product{
+        font-size: 14px !important;
+    }
+}
+@media  screen and (max-width:767px){
+    .nav-image {
+        display: none;
+    }
+    footer{
+        padding: 10px !important;
+       }
+    input{
+        margin-bottom:10px !important ;
+    }
+   
+}
+@media (min-width:446px) and (max-width:550px){
+    .todo{
+      font-size: 40px !important;
+    }
+    .email-Btn{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:445px){
+    .get-s{
+      margin-bottom: 10px !important;
+    }
+    .todo{
+        font-size: 30px !important;
+    }
+    .email-Btn{
+        margin-left: 0px;
+    }
+    .ttu{
+        padding: 10px !important;
+        text-align: center;
+    }
+    
+    .index-btn{
+        padding:10px !important;
+    }
+    .index-btn p{
+        font-size: 10px;
+    }
+    .index-btn h2{
+        font-size: 14px;
+    }
+    .app-Btn{
+        margin-bottom: 10px;
+        padding: 5px !important;
+    }
+    .applay-btn{
+        justify-content: center !important;
+    }
+    .play-Btn{
+        padding: 5px !important;
+    }
+    .cont-text{
+        padding: 0px !important;
+        text-align: center;
+    }
+    .todo-product{
+        font-size: 12px;
+    }
+    .responsive{
+        width: 50% ;
+        height: auto;
+      }
+    .nav-icon{
+     padding: 0px !important;
+     font-size: 10px !important;
+    }
+    .ticktac-nav{
+        padding: 0px !important;
+    }
+}
